@@ -1,0 +1,6 @@
+projectKey=maven-basic
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=maven-basic
+ceTaskId=ae0c4d06-a16d-4668-98f1-46902fee7279
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ae0c4d06-a16d-4668-98f1-46902fee7279
